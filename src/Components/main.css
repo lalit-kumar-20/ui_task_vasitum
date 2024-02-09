@@ -82,8 +82,10 @@ h3{
 
 }
 .dashboard{
+    margin-top:-10px;
     margin-left: -37rem;
     font-size: 1.5rem;
+    margin-bottom:-1px;
     
 }
 

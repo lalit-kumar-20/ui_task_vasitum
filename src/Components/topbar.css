@@ -11,6 +11,7 @@
 .right{
     display: flex;
     align-items: center;
+    margin-left: 33rem;
     gap: 1rem;
     margin-bottom: 30px;
 }
